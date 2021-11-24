@@ -1,4 +1,4 @@
-# Computational_Geometry
+# Computational_Geometry (repository is not fully updated)
 
 Matlab scripts used in the development of two papers. 
 Caveat: Most of this code uses Matlab's "TriRep" function to store data of 3D representations (Delaunay Triangulations). Matlab is doing away with that function, and has moved towards the "triangulation" function.  Feel free to revise the code accordingly.
